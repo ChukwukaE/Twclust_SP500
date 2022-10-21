@@ -1,2 +1,2 @@
-# Twclust_SP500
+# Unsupervised learning of SP 500 stocks and applications
 For this project we explored Fuzzy clustering/soft clustering, unlike hard clustering where each data point is strictly allocated to a single cluster, in fuzzy clustering a single data point can belongs to more than one clusters as it judges based on probability score, ie probability of that point to be in that cluster assigned.  Also, dynamic time wraping (dtw)was explored as the distance calculation, result was compared  with Euclidean square distance  (Ward.D2) outcome.
